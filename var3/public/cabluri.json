@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "denumirea": "FY 1.5",
+    "culoarea": "Negru",
+    "cantitatea": "5000",
+    "clientul": "Romnim Concept",
+    "ambalare": "tambur"
+  },
+  {
+    "id": 2,
+    "denumirea": "CYYF 3x4",
+    "culoarea": "Albastru",
+    "cantitatea": "400",
+    "clientu": "Electrogrup",
+    "ambalare": "colaci"
+  },
+  {
+    "id": 3,
+    "denumirea": "A2XS(FL)2Y 1x150/25",
+    "culoarea": "rosu",
+    "cantitatea": "14800",
+    "clientul": "Elda",
+    "ambalare": "tambur"
+  },
+  {
+    "id": 4,
+    "denumirea": "CYABY-F 3x35+16",
+    "culoarea": "Galben",
+    "cantitatea": "580",
+    "clientul": "Euro Vial Lighting",
+    "ambalare": "colaci"
+  }
+]
